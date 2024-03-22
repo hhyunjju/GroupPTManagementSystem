@@ -1,2 +1,4 @@
-package service;public class TrainerService {
+package service;
+
+public class TrainerService {
 }
