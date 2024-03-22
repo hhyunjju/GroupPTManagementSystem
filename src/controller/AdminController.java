@@ -1,2 +1,4 @@
-package controller;public class AdminController {
+package controller;
+public class AdminController {
+    //안녕안녕안녕~~~~~
 }
