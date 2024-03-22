@@ -1,4 +1,5 @@
 package model;
 
-public class Booking {
+public class Reservation {
+    //상담과 수업 예약을 분류하는 변수값을 설정한다.
 }

@@ -1,2 +1,4 @@
-package service;public class MemberService {
+package service;
+
+public class MemberService {
 }

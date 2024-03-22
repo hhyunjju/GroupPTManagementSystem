@@ -1,2 +1,4 @@
-package model;public class Trainer {
+package model;
+
+public class Trainer extends User {
 }

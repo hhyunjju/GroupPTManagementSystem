@@ -1,2 +1,4 @@
-package repository;public class TrainerRepository {
+package repository;
+
+public class TrainerRepository {
 }
