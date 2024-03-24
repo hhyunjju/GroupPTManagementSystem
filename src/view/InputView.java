@@ -1,2 +1,3 @@
-package view;public class InputView {
+package view;
+public class InputView {
 }

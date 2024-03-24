@@ -1,2 +1,3 @@
-package model;public class Payment {
+package model;
+public class Payment {
 }

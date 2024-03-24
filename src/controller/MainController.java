@@ -1,2 +1,3 @@
-package controller;public class MainController {
+package controller;
+public class MainController {
 }

@@ -1,2 +1,3 @@
-package view;public class TrainerView {
+package view;
+public class TrainerView {
 }

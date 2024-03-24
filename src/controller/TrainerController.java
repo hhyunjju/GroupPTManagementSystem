@@ -1,2 +1,3 @@
-package controller;public class TrainerController {
+package controller;
+public class TrainerController {
 }

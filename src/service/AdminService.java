@@ -1,2 +1,3 @@
-package service;public class AdminService {
+package service;
+public class AdminService {
 }

@@ -1,2 +1,3 @@
-package view;public class MemberView {
+package view;
+public class MemberView {
 }

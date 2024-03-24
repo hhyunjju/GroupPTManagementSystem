@@ -1,4 +1,4 @@
 package model;
 
-public class Booking {
+public class Reservation {
 }

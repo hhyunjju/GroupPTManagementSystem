@@ -1,2 +1,3 @@
-package controller;public class MemberController {
+package controller;
+public class MemberController {
 }
